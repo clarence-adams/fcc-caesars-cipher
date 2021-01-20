@@ -1,2 +1,2 @@
 # caesars_cipher
-Cipher translator
+Cipher translator using charactor codes to shift each char by 13 places in the alphabet.
